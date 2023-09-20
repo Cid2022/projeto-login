@@ -34,10 +34,12 @@ section#login {
     width: 250px;
     height: 500px;
     border-radius: 20px;
+    overflow: hidden;
 }
 
 section#login > div#imagem {
     background: #5f2c82 url(../imagens/fundo.jpeg) no-repeat;
     background-size: cover;
+    background-position: top right;
     height: 200px;
 }
