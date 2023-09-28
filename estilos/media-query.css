@@ -17,14 +17,14 @@ Grandes telas: acima de 1200px
     }
 
     section#login {
-        width: 950px;
+        width: 750px;
         height: 300px;
         
     }
 
     section#login > div#imagem {
-        background: url(../imagens/fundo2.jpeg);
-        background-position: center center;
+        background: url(../imagens/tela-login.jpg);
+        background-position: center top;
         float: left;
         width: 50%;
         height: 100%;

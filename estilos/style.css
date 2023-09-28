@@ -43,9 +43,9 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/fundo.jpeg) no-repeat;
+    background: #5f2c82 url(../imagens/tela-login.jpg) no-repeat;
     background-size: cover;  
-    background-position: top right;
+    background-position: center bottom;
     height: 200px;
 }
 
